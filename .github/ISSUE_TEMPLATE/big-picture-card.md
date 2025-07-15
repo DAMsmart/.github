@@ -3,7 +3,7 @@ name: Big-Picture Card
 about: Use this template to create "Big-Picture"-style cards (issues) for use in the
   management-friendly "DAMflow Big Picture" Project.
 title: ''
-labels: ''
+labels: bigpicture
 assignees: ''
 
 ---
